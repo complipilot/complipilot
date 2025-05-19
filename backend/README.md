@@ -1,9 +1,9 @@
-# Complipilot Backend
+# CompliPilot Backend
 
 [![CI](https://github.com/<YOUR_USERNAME>/complipilot/actions/workflows/ci.yml/badge.svg)](https://github.com/<YOUR_USERNAME>/complipilot/actions/workflows/ci.yml)
 [![Coverage Status](https://img.shields.io/codecov/c/github/<YOUR_USERNAME>/complipilot.svg)](https://codecov.io/gh/<YOUR_USERNAME>/complipilot)
 
-A FastAPI-based backend for Complipilot, a compliance management system for tracking policies, gaps, tasks, and evidence.
+A FastAPI-based backend for CompliPilot, a compliance management system for tracking policies, gaps, tasks, and evidence.
 
 ---
 
